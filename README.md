@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Olga</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Student of the course  Fullstack developer 🇷🇺</h3>
 
 <!--
 **LogicalTime3457/LogicalTime3457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
